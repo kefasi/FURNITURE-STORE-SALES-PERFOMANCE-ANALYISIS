@@ -292,5 +292,6 @@ Superstore-Sales-Performance-Dashboard/
 **Kefasi Vurumu**
 
 Aspiring Data Analyst | Business Intelligence | Data Analytics
-#   F U R N I T U R E - S T O R E - S A L E S - P E R F O M A N C E - A N A L Y I S I S  
+
+ 
  
